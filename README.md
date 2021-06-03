@@ -9,7 +9,7 @@ Use Opencore-pkg 6.9 And use the official Gui
 |  GPU | Asrock 6800xt GD  |
 |  Memory |  Micro c16 3600 16G * 2   |
 |  igpu | Not use igpu  |
-|   model|  Macpro7.1 |
+|   model|  Macpro7,1 |
 |  Netcard| Realtek8125B|
 | wireless| Dell 1820a |
 # Work
