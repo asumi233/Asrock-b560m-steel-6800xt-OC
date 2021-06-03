@@ -8,17 +8,21 @@
 |  Memory |  Micro c16 3600 16G * 2   |
 |  igpu | Not use igpu  |
 |   model|  Macpro7.1 |
+|  Netcard| Realtek8125B|
+| wireless| Dell 1820a |
 # Work
 All functions are normal(In addition to microphone input)
 
 Applealc use id 69
 
-Customized USB
+Customized USB Map
+
+wireless 1820A All functions
 
 S5 Sleep and wake up normally
 
 # Support OS
-Catalina - Big sur
+Catalina(6800xt Can't drive) - Big sur
 
 # geekbench5
 6800XT Metal 160000-180000
@@ -28,3 +32,4 @@ netflix ok!
 
 # Opencore parameters
 The best and most streamlined parameters
+
