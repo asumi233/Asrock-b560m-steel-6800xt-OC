@@ -23,6 +23,14 @@ wireless 1820A All functions
 
 S5 Sleep and wake up normally
 
+# Bios option
+* Advanced • CPU Configuration • CFG Lock = Disabled
+* Advanced • Chipset Configuration • Above 4G Decoding = Disabled
+* Advanced • Chipset Configuration • IGPU Multi-Monitor = Disabled
+* Advanced • USB Configuration • XHCI Hand-off = Enabled
+* Security • Secure Boot = Disabled
+
+
 # Support OS
 Catalina(6800xt Can't drive) - Big sur
 
