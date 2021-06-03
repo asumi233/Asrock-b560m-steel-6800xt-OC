@@ -1,5 +1,7 @@
 # Asrock-b560m-steel-6800xt-OC
 
+# Opencore version
+Use Opencore-pkg 6.9 And use the official Gui
 # Hardware Config
 
 |  CPU |  Intel 10700 |
