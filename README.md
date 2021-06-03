@@ -10,14 +10,21 @@
 |   model|  Macpro7.1 |
 # Work
 All functions are normal(In addition to microphone input)
-applealc use id 69
+
+Applealc use id 69
+
 Customized USB
+
 S5 Sleep and wake up normally
-#Support OS
+
+# Support OS
 Catalina - Big sur
-#geekbench5
+
+# geekbench5
 6800XT Metal 160000-180000
-#Support Drm
+
+# Support Drm
 netflix ok!
-#Opencore parameters
+
+# Opencore parameters
 The best and most streamlined parameters
