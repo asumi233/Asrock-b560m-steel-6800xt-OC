@@ -13,7 +13,7 @@ Use Opencore-pkg 6.9 And use the official Gui
 |  Netcard| Realtek8125B|
 | wireless| Dell 1820a |
 # Work
-All functions are normal(In addition to microphone input)
+All functions are normal(Except that the microphone input is not working)
 
 Applealc use id 69
 
