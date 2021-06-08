@@ -33,6 +33,7 @@ S5 Sleep and wake up normally
 
 # Support OS
 Catalina(6800xt Can't drive) - Big sur
+
 test for big sur 11.4+
 
 # geekbench5
