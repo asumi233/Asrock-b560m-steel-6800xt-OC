@@ -1,7 +1,7 @@
 # Asrock-b560m-steel-6800xt-OC
 
 # Opencore version
-Use Opencore-pkg 6.9 And use the official Gui
+Use Opencore-pkg 7.0 And use the official Gui
 # Hardware Config
 
 |  CPU |  Intel 10700 |
@@ -33,6 +33,7 @@ S5 Sleep and wake up normally
 
 # Support OS
 Catalina(6800xt Can't drive) - Big sur
+test for big sur 11.4+
 
 # geekbench5
 6800XT Metal 160000-180000
