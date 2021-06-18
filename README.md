@@ -14,7 +14,9 @@ Use Opencore-pkg 7.0 And use the official Gui
 | wireless| Dell 1820a |
 
 Default use macpro7,1(only Dgpu)
+
 support imac20,1(support igpu and Dgpu)
+
 # Work
 All functions are normal(Except that the microphone input is not working)
 
