@@ -109,9 +109,9 @@
 				<string>Slot-0</string>
 				<key>device-id</key>
 				<data>mD4AAA==</data>
-				<key>device_type</key>
 				<key>enable-metal</key>
 				<data>AQAAAA==</data>
+				<key>device_type</key>
 				<string>Display controller</string>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
